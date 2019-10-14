@@ -1,11 +1,11 @@
 <JavaCardProject name="BitcoinWallet">
 <USER>
-<PKG name="com.ledger.wallet" aid="11 22 33 44 55" major="1" minor="0">
+<PKG name="com.bixin.wallet" aid="11 22 33 44 55 66" major="1" minor="0">
 <CLASS name="BIP32"/>
 <CLASS name="BIP32Cache"/>
 <CLASS name="Crypto"/>
 <CLASS name="HmacSha512"/>
-<APPLET aid="11 22 33 44 55 01" instanceaid="" parameter="" authority="" privileges="" index="-13008" name="LedgerWalletApplet"/>
+<APPLET aid="11 22 33 44 55 66 01" instanceaid="" parameter="" authority="" privileges="" index="-13008" name="BiXinWalletApplet"/>
 <CLASS name="MathMod256"/>
 <CLASS name="Secp256k1"/>
 <CLASS name="Sha512"/>
